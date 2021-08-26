@@ -20,9 +20,9 @@ def app_clientes_get():
 
 
 # novo
-@app.get('/for')
-def app_get():
-    return [iter for iter in range(5)]
+# @app.get('/for')
+# def app_get():
+#     return [iter for iter in range(5)]
 
 
 @app.post('/')

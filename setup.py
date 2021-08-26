@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pratica1',
+    name='SD',
     description='Pratica 1 de SD, 2021.2',
     author='Guilherme Senna',
     install_requires=['fastapi', 'uvicorn'],
