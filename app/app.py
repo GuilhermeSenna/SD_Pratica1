@@ -22,7 +22,6 @@ def app_clientes_get():
 # novo
 @app.get('/for')
 def app_get():
-    print('a')
     return [iter for iter in range(5)]
 
 
